@@ -1,8 +1,3 @@
-<img width="82" height="20" alt="image" src="https://github.com/user-attachments/assets/f7e02f14-cb35-4991-80c3-b4aac88ce300" />
-<img width="76" height="20" alt="image" src="https://github.com/user-attachments/assets/8e399270-5c81-40cf-9aa5-9f06507ca82a" />
-<img width="182" height="20" alt="image" src="https://github.com/user-attachments/assets/c8cb6375-cad3-4271-acb4-6584006512b9" />
-
-
 📋 项目简介
 本项目聚焦自然语言处理（NLP）领域的领域特定命名实体识别（DS-NER），提供通信领域专业术语数据集及配套的改进 TF-IDF 算法实现，用于解决传统方法中术语稀疏性、隐性近义关系识别不足的问题。核心产出包括两类标注数据集与实体关系树构建工具，支持专业术语提取、近义关系挖掘及知识图谱构建等下游任务。
 📊 数据集详情
